@@ -1,0 +1,32 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #b0aac0;
+}
+
+.card {
+    margin: 50px auto;
+    width: 35%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    border-radius: 10px;
+    align-items: center;
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    background-color: aquamarine;
+    margin: 20px 0;
+}
+
+h2 {
+    font-weight: 100;
+}
+
+#input {
+    margin: 20px 0;
+}
